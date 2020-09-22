@@ -1,2 +1,2 @@
 # ANGUISH
-Fast paced Lovecraftian FPS-game
+Fast paced Lovecraftian FPS

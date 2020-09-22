@@ -1,0 +1,10 @@
+.vs
+Library
+Logs
+obj
+UserSettings
+Assembly-CSharp.csproj
+Assembly-CSharpEditor.csproj
+GameProject.sln
+Temp
+Build
